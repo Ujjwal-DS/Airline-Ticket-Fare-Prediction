@@ -24,3 +24,8 @@
 •	Again with the new selected features, we again headed with the building of all the 8 models.Now the algorithms were taking lesser time to run with significantly improved accuracy. 
 
 •	We found that with the best features selected, Hyper-tuned Random Forest model to be performing as the best one with the overfitting being reduced.
+
+# ScreenShot:
+
+![image](https://user-images.githubusercontent.com/110291864/214470115-15bc576a-3db5-48be-bdc6-752d17a5edc7.png)
+
